@@ -1,0 +1,51 @@
+/* Raul Esteban Pajares. Practica WalkMe */
+
+body{
+    background-color: bisque;
+}
+		
+h1{
+	text-align: left;
+	font: italic bold 3.7em Cambria;
+	color: indianred;
+	margin-top: 180px;
+	margin-left: 50px;
+	margin-bottom: 20px;
+}
+
+p{
+	text-align: right;
+	font: italic 1.7em Cambria;
+	color: indianred;
+	margin-top: 40px;
+	margin-right: 10px;
+	margin-bottom: 80px;
+}
+
+img{
+	 border: 0px;
+	 width: 300px;
+	 height: 500px;
+	 hspace: 20px;
+	 float: right;
+	 margin-left: 20px;
+	 margin-right: 120px;
+}
+
+#fuente{
+	text-align: right;
+	font: italic 1.7em Cambria;
+	color: indianred;
+	margin-right: 10px;
+	margin-bottom: 10px;
+}
+
+#logo{
+	border: 0px;
+	width: 50px;
+	height: 50px;
+	hspace: 10px;
+	float: right;
+	margin-top: 10px;
+	margin-right: 20px;
+}
